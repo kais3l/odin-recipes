@@ -1,0 +1,58 @@
+h1#Odin{
+    font-size: 26px;
+    text-align: center;
+    background-color: #f0f8ff;
+    color: burlywood;
+    font-family: cursive;
+}
+
+.unordered#pav-bhaji,.unordered#pasta ,.unordered#pbj{
+    font-size: 22px;
+    text-align: center;
+    font-family: Garamond, Georgia, sans-serif;
+    background-color: rgb(166,120,120);
+}
+
+#pav-bhaji{
+    color: hsl(30,80,30);
+}
+
+#pasta{
+    color: sandybrown;
+}
+
+#pbj{
+    color: darkred;
+}
+
+.description,.ingredients,.steps{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: saddlebrown;
+    color: silver;
+}
+
+.unordered,.ordered{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+}
+
+.unordered{
+    background-color: grey;
+}
+
+.ordered{
+    background-color: teal;
+}
+
+p{
+    font-size: 20px;
+    font-family: 'Brush Script MT',sans-serif;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
